@@ -1,14 +1,17 @@
 {
   "name": "theme-end",
   "displayName": "End",
-  "description": "End",
-  "version": "0.0.1",
+  "description": "Theme End",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.98.0"
   },
   "categories": [
     "Themes"
   ],
+  "icon": "icon.png",
+  "publisher": "hzao",
+  "repository": "https://github.com/hezeao/theme-end",
   "contributes": {
     "themes": [
       {
