@@ -160,12 +160,12 @@
     "editorLightBulbAutoFix.foreground": "#00DDFF",
     "editorBracketMatch.background": "#363537",
     "editorBracketMatch.border": "#575459",
-    "editorBracketHighlight.foreground1": "#EEEEAA",
+    "editorBracketHighlight.foreground1": "#E55FFF",
     "editorBracketHighlight.foreground2": "#00CCBB",
-    "editorBracketHighlight.foreground3": "#E55FFF",
+    "editorBracketHighlight.foreground3": "#FF1155",
     "editorBracketHighlight.foreground4": "#AADD00",
-    "editorBracketHighlight.foreground5": "#00DDFF",
-    "editorBracketHighlight.foreground6": "#F8EEFF",
+    "editorBracketHighlight.foreground5": "#EE7722",
+    "editorBracketHighlight.foreground6": "#00DDFF",
     "editorBracketHighlight.unexpectedBracket": "#FF1155",
     "editor.foldBackground": "#36353766",
     "editorOverviewRuler.border": "#363537",
@@ -503,7 +503,8 @@
       "name": "Constant",
       "scope": "constant",
       "settings": {
-        "foreground": "#00DDFF"
+        // "foreground": "#00DDFF"
+        "foreground": "#EE7722"
       }
     },
     {
@@ -513,12 +514,30 @@
         "foreground": "#00CCBB"
       }
     },
+    // {
+    //   "name": "Class name",
+    //   "scope": "entity.name.type, entity.name.class, entity.name.namespace, entity.name.scope-resolution",
+    //   "settings": {
+    //     "foreground": "#00CCBB"
+    //   }
+    // },
+    // {
+    //   "name": "Inherited class",
+    //   "scope": [
+    //     "entity.other.inherited-class",
+    //     "punctuation.separator.namespace.ruby"
+    //   ],
+    //   "settings": {
+    //     "fontStyle": "italic",
+    //     "foreground": "#00CCBB"
+    //   }
+    // },
     {
       "name": "Function name",
       "scope": "entity.name.function",
       "settings": {
         "fontStyle": "",
-        "foreground": "#E55FFF"
+        "foreground": "#00CCBB"
       }
     },
     {
@@ -527,6 +546,43 @@
       "settings": {
         "fontStyle": "italic",
         "foreground": "#EE7722"
+      }
+    },
+    {
+      "name": "Tag name",
+      "scope": "entity.name.tag",
+      "settings": {
+        "fontStyle": "",
+        "foreground": "#E55FFF"
+      }
+    },
+    {
+      "name": "Tag attribute",
+      "scope": "entity.other.attribute-name",
+      "settings": {
+        "fontStyle": "",
+        "foreground": "#EE7722"
+      }
+    },
+    // {
+    //   "name": "Meta function name",
+    //   "scope": "meta.function-call.generic",
+    //   "settings": {
+    //     "foreground": "#00CCBB"
+    //   }
+    // },
+    {
+      "name": "Meta attribute",
+      "scope": "meta.attribute",
+      "settings": {
+        "foreground": "#00CCBB"
+      }
+    },
+    {
+      "name": "Meta indexed name",
+      "scope": "meta.indexed-name",
+      "settings": {
+        "foreground": "#00CCBB"
       }
     },
     {
@@ -554,7 +610,7 @@
       "name": "String",
       "scope": "string",
       "settings": {
-        "foreground": "#AADD00"
+        "foreground": "#EEEEAA"
       }
     },
     {
@@ -627,5 +683,6 @@
         "foreground": "#E55FFF"
       }
     }
-  ]
+  ],
+  "semanticHighlighting": true
 }
