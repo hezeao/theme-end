@@ -12,6 +12,7 @@
   "icon": "icon.png",
   "publisher": "hzao",
   "repository": "https://github.com/hezeao/theme-end",
+  "license":"MIT",
   "contributes": {
     "themes": [
       {
