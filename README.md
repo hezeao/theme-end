@@ -4,6 +4,12 @@
 
 # End - A VS Code Theme Inspired by Minecraft’s The End  
 
+
+## [GitHub Repo](https://github.com/hezeao/theme-end)
+
+[![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/editor/theme/hzao.theme-end) [![Version](https://vsmarketplacebadges.dev/version/hzao.theme-end.png)](https://marketplace.visualstudio.com/items?itemName=hzao.theme-end) [![Installs](https://vsmarketplacebadges.dev/installs/hzao.theme-end.png)](https://marketplace.visualstudio.com/items?itemName=hzao.theme-end)
+
+
 **Step into *The End* and code in the void!** ✨ This theme draws inspiration from Minecraft’s The End, blending mysterious purples, fiery energy crystals, and the eerie gaze of Endermen into your editor.  
 
 
@@ -30,8 +36,8 @@
 
 ### 1. **Accessibility-First** 🦮  
    - Compliant with **WCAG 2.1 AA** standards:  
-     - Text contrast ≥ 4.5:1 (normal text)  
-     - Critical syntax (e.g., errors) ≥ 7:1 (e.g., `#ff1155` for warnings)  
+      - Text contrast ≥ 4.5:1 (normal text)  
+      - Critical syntax ≥ 7:1
 
 ### 2. **Scientifically Crafted** 🧪  
    - Uses **HSLuv color space** for perceptual uniformity  
@@ -44,7 +50,7 @@
 
 ## 🛠️Installation
 
-1. Search for **"End"** in the VS Code Marketplace  
+1. Search for **"Theme End"** in the VS Code Marketplace  
 2. Or manually install via `.vsix`  
 
 

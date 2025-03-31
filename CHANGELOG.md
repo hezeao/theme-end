@@ -6,4 +6,20 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-- Initial release
+- v0.2.0 Improve menu.
+
+## [0.1.0] - 2025-03-31
+
+### Added
+
+- Initial release.
+
+## [0.1.1] - 2025-03-31
+
+### Added
+
+- Added button separator color.
+
+### Fixed
+
+- Fixed the extension button color issue.
