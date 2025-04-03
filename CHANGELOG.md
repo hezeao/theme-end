@@ -51,3 +51,25 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Removed
 
 - Removed "editor.lineHighlightBackground".
+
+## [0.3.0] - 2025-04-03
+
+### Added
+
+- Added widget border.
+- Added command center colors.
+
+### Fixed
+
+- Modified the placeholder foreground color of input to `#77737A`.
+- Unified the drag and drop border color of the tab to `#E55FFF`.
+- Modified the modified background color of editor gutter to `#EE7722`.
+- Modified the match highlight background color in peekview result.
+
+### Changed
+
+- Modified the highlight foreground color of list to `#E55FFF`.
+- Modified the background color of quickinput to `#161616`.
+- Modified the background color of quickinput title to `#161616`.
+- Modified the selection background color in terminal to `#E55FFF7f`.
+- Modified the foreground color or terminal cursor to `#E55FFF`.
