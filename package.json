@@ -2,7 +2,7 @@
   "name": "theme-end",
   "displayName": "End",
   "description": "Theme End: A Theme Inspired by Minecraft’s The End",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "engines": {
     "vscode": "^1.14.0"
   },
